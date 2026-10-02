@@ -44,6 +44,6 @@ an API.
 - Hanin Edhib (Telecommunications, ENIT)
 - Zaineb Dagdoug (Computer Science, ENIT)
 
-## Status
+## Report
 
-Code and notebooks coming soon.
+The full project report is available in this repository: [report.pdf](report.pdf)
