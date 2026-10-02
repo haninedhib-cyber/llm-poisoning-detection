@@ -33,7 +33,7 @@ through an API.
 
 ## Authors
 - Hanin Edhib (Telecommunications, ENIT)
-- Zaineb Dagdoug (Informatique, ENIT)
+- Zaineb Dagdoug (Computer Science , ENIT)
 
 ## Status
 Code and notebooks coming soon.
